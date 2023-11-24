@@ -1,6 +1,5 @@
 <div id="header" align="center">
   <span style="font-size:20px">Hi I'm <span style="color:#2FA7FFFF;font-weight:900">Iftikhirul Hoque</span><br>And i'm a</span>
-<br>And I'm a
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kdam+Thmor+Pro&size=22&pause=1000&color=11BCF7&center=true&vCenter=true&random=false&width=435&lines=Competetive+Programmer;Web+Designer)](https://git.io/typing-svg)
   
