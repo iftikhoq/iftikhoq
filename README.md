@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <span>Hi I'm <span style="color:#2FA7FFFF">Iftikhirul Hoque</span><br> And I'm a</span>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kdam+Thmor+Pro&size=22&pause=1000&color=11BCF7&center=true&vCenter=true&random=false&width=435&lines=Competetive+Programmer;Web+Designer)](https://git.io/typing-svg)
+  
 </div>
 <div align="left">
 
