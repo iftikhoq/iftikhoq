@@ -1,5 +1,17 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+---
+
+### :man_technologist: About Me :
+- 📖: I am currently studying for a BSc. degree in Computer Science and Engineering at Port City International University.
+
+- 🔭: Working on software developer dream.
+
+- 🌱: Exploring aspects of life.
+
+- :zap: In my free time, I solve problems on codeforces or do arduino projects.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iftikhoq)
   
 ---
   
