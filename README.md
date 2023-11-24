@@ -1,5 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div align="left">
+
 ---
 
 ### :man_technologist: About Me :
@@ -35,7 +38,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iftikhoq&theme=duskfox&border_radius=7.5&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/iftikhoq/github-readme-stats)
-
+</div>
 <!--
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
