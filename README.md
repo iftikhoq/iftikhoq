@@ -163,6 +163,6 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/iftikhoq/iftikhoq/dist/snake-dark.svg)
+![Snake animation](https://github.com/iftikhoq/iftikhoq/blob/dist/snake-dark.svg)
 
 
