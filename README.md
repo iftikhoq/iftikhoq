@@ -163,5 +163,13 @@
 
 ### 🐍 Fun Touch
 
-![Snake animation](https://github.com/iftixxx/iftixxx/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iftikhoq/iftikhoq/output/dist/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iftikhoq/iftikhoq/output/dist/snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/iftikhoq/iftikhoq/output/dist/snake.svg" />
+  </picture>
+</p>
 
