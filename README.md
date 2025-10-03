@@ -163,6 +163,6 @@
 
 ## 🐍 Contribution Snake
 
-![GitHub Snake Dark](https://raw.githubusercontent.com/iftikhoq/iftikhoq/dist/snake-dark.svg)
+![GitHub Snake Dark](https://raw.githubusercontent.com/iftikhoq/iftikhoq/main/dist/snake-dark.svg)
 
 
