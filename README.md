@@ -161,8 +161,6 @@
 
 ---
 
-### 🐍 Fun Touch
-
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/iftikhoq/iftikhoq/blob/output/github-contribution-grid-snake.svg)
