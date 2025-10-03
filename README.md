@@ -42,13 +42,13 @@
 
 <!-- GitHub Overview & Languages -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iftikhoq/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-  <img src="https://raw.githubusercontent.com/iftikhoq/github-stats/master/generated/overview.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iftikhoq/profile-repo/master/generated/overview.svg#gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/iftikhoq/profile-repo/master/generated/overview.svg">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iftikhoq/github-stats/master/generated/languages.svg#gh-dark-mode-only">
-  <img src="https://raw.githubusercontent.com/iftikhoq/github-stats/master/generated/languages.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iftikhoq/profile-repo/master/generated/languages.svg#gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/iftikhoq/profile-repo/master/generated/languages.svg">
 </picture>
 
 <!-- GitHub Stats Card -->
