@@ -5,7 +5,7 @@ permissions:
   
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight UTC
+  - cron: "55 19 * * *"
   workflow_dispatch:     # Allow manual trigger
   push:
     branches:
