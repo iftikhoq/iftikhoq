@@ -12,7 +12,7 @@
 ---
 
 ### 🧑‍💻 About Me
-🎓 I'm a **4th-year Computer Science student** at **Port City International University**.  
+🎓 I'm a **Computer Science graduate** from **Port City International University**.  
 💻 Passionate about **full-stack web development** and **problem solving**.  
 🌱 Currently exploring **Docker**, **React**, and **DevOps** tools.  
 🚀 Love building practical projects & contributing to open-source.
