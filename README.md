@@ -132,11 +132,7 @@
   <img src="https://raw.githubusercontent.com/iftikhoq/profile-repo/master/generated/languages.svg">
 </picture>
 
-<!-- GitHub Stats Card -->
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=iftikhoq&show_icons=true&number_format=long&hide_title=true&text_bold=false&show=reviews,prs_merged,prs_merged_percentage,discussions_answered&border_color=ddd&border_radius=7&hide=stars,commits">
-  <img src="https://github-readme-stats.vercel.app/api?username=iftikhoq&show_icons=true&number_format=long&hide_title=true&text_bold=false&hide=stars,commits&show=reviews,discussions_answered,prs_merged,prs_merged_percentage&border_color=666&border_radius=7&bg_color=0d1117&icon_color=58a6ff&ring_color=58a6fc&text_color=ccc">
-</picture>
+
 
 <!-- Streak Stats -->
 <picture>
